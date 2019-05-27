@@ -1,4 +1,4 @@
-def roll(rand)
+def roll()
  puts rand(1..7)
 end
 # Create method `roll` that returns a random number between 1 and 6
